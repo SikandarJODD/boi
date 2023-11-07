@@ -27,4 +27,11 @@ cat input_MM.txt | python3 mapper_MM.py | sort | python3 reducer_MM.py
 https://colab.research.google.com/drive/1s4ya-vYiqQQsiHq5ZeWGnyeooomidDj0?usp=sharing
 ```
 
+## Bloom Filter
+
+[Visit Collab](https://colab.research.google.com/drive/19pHvn_hdaVr7p1ScnQ3XZJ1w1BoR4Fy6?usp=sharing)
+
+```
+https://colab.research.google.com/drive/19pHvn_hdaVr7p1ScnQ3XZJ1w1BoR4Fy6?usp=sharing
+```
 
